@@ -14,6 +14,16 @@ body {
     margin: 2.5vh;
 
 }
+
+@media only screen and (max-width: 900px) {
+    #_idContainer000, #_idContainer032 {
+	    display:inline-block;
+	    height:95vw;
+	    width:95vw;
+        margin: 2.5vw;
+    }
+}
+
 #_idContainer001, #_idContainer002, #_idContainer003, #_idContainer004, #_idContainer005, #_idContainer006, #_idContainer007, #_idContainer008, #_idContainer009, #_idContainer010, #_idContainer011, #_idContainer012, #_idContainer013, #_idContainer015, #_idContainer016, #_idContainer017, #_idContainer018, #_idContainer019, #_idContainer020, #_idContainer021, #_idContainer022, #_idContainer023, #_idContainer024, #_idContainer025, #_idContainer026, #_idContainer027, #_idContainer028, #_idContainer029, #_idContainer030, #_idContainer031,
 #_idContainer014 {
 	display:inline-block;
