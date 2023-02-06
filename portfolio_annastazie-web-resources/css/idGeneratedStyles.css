@@ -15,7 +15,7 @@ body {
 
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 990px) {
     #_idContainer000, #_idContainer032 {
 	    display:inline-block;
 	    height:95vw;
